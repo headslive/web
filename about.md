@@ -78,7 +78,7 @@ heads offers two similar, but still different user interfaces. They can
 both be found on the same liveCD. We decided to call them **mate** and
 **awesome** versions. They both behave and protect you in the exact same
 way. The only difference is in the way you use the OS environment. We
-shall explain this a bit more later...
+shall explain this a bit more below...
 
 ### "mate" version
 
