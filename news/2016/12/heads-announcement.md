@@ -3,8 +3,8 @@
 First announcement of heads
 ===========================
 
-[dyne.org](https://www.dyne.org) is proud to announce the
-new, soon-to-be-released GNU/Linux distribution called **heads**, as you
+[dyne.org](https://www.dyne.org) is proud to announce the new,
+soon-to-be-released GNU/Linux distribution called **heads**, as you
 might already see from the website's name :p
 
 heads is a new libre (free as in freedom) GNU/Linux distribution born

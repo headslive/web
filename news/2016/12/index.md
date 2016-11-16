@@ -3,4 +3,4 @@
 December 2016 news archive
 ==========================
 
-* [first announcement of heads](heads-announcement.html)
+* [First announcement of heads](heads-announcement.html)
