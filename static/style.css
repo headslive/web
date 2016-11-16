@@ -1,0 +1,150 @@
+@font-face { font-family: copse; src: url(quattro.woff); }
+@font-face { font-family: archi; src: url(ArchitectsDaughter.ttf); }
+
+body {
+	background-color: #eee;
+	background-image: url("congruent_pentagon.png");
+	color: #222;
+	font-family: copse, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	padding: 0 20px 0 20px;
+	margin: 0;
+}
+
+hr { margin: 30px 60px; }
+
+i { font-family: copse, sans-serif; }
+b, strong { font-family: copse, sans-serif; }
+b i, i b, strong i, i strong { font-family: copse, sans-serif; }
+
+a, a:visited {
+	color: #058;
+	text-decoration: none;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-ms-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+a:hover {
+	background-color: #eee;
+	text-decoration: none;
+}
+
+code {
+	font-family: monospace;
+	color: #222;
+	background-color: #f2f8fc;
+	border: solid 1px #dbe7f3;
+	padding 0 30px;
+}
+
+#menu {
+	clear: both;
+	overflow: hidden;
+	color: #069;
+	background-color: #333;
+	padding: 0.7ex;
+	font-family: archi, sans-serif;
+	font-size: 94%;
+	border-top: 1px solid #333;
+	border-bottom: 1px solid #333;
+}
+
+#menu a {
+	padding: 0.5ex 1ex 0.5ex 1ex;
+	color: #fff;
+}
+
+#menu a:hover {
+	background-color: #333;
+	color: #17a;
+}
+
+#menu a.thisSite {
+	font-weight: bold;
+}
+
+#header {
+	clear: both;
+	font-family: archi, sans-serif;
+	color: #666;
+	font-size: 1.78em;
+	padding: 0.7ex 0.7ex 0.7ex 0.7em;
+}
+
+#header img {
+	width: 30px;
+}
+
+#headerLink {
+	color: #666;
+	margin-left: 5px;
+}
+
+h1 {
+	font-family: archi, sans-serif;
+	margin: 1em 1ex 0.5ex 0;
+	font-size: 1.4em;
+}
+
+h2 {
+	font-family: archi, sans-serif;
+	margin: 1em 1ex 0.5ex 0;
+	font-size: 1.3em;
+}
+
+h3 {
+	font-family: archi, sans-serif;
+	margin: 1em 1ex 0.5ex 0;
+	font-size: 1.0em;
+}
+
+h4 {
+	font-family: archi, sans-serif;
+	margin: 1em 1ex 0.5ex 0;
+	font-size: 0.9em;
+}
+
+#headerSubtitle {
+	font-size: 0.75em;
+	font-style: italic;
+	margin-left: 1em;
+}
+
+#content {
+	clear: both;
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+	overflow: hidden;
+}
+
+#main {
+	margin: 0 50px 0 50px;
+	padding: 1.5em;
+	max-width: 50em; 
+}
+
+#footer {
+	clear: both;
+	color: #666;
+	border-top: 1px solid #ccc;
+	font-family: archi, sans-serif;
+	font-size: 70%;
+	padding: 1em;
+	margin: 0 0 1.5em 0;
+}
+
+.left {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+.right {
+	float: right;
+	margin: 0;
+	padding: 0;
+}

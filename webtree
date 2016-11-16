@@ -1,0 +1,35 @@
+# here configure your webserver and webroot path for rsync
+WEBHOST="heads.dyne.org"
+WEBROOT="/srv/www/heads"
+
+# set the format of your pages (php or markdown)
+#pageformat=php
+pageformat=md
+
+tree=(
+	.
+
+	news
+	news/2016
+	news/2016/12
+	news/2017
+	news/2017/01
+
+	download
+)
+
+# here add files you want excluded from being generated as .html
+exclude=(
+	README.md
+	INSTALL.md
+)
+
+## markdown specific settings
+[[ $pageformat == md ]] && {
+
+	# html that is put in order before the conten
+	precontent=(header.html navigation.html)
+
+	# html that is put in order after the content
+	postcontent=(footer.html)
+}
