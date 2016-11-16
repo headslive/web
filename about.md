@@ -45,9 +45,12 @@ defaults in the way the user prefers it...
 
 ## heads' security
 
-Heads uses a hardened Linux kernel. It does so by using a Linux kernel
-patched with [grsecurity](https://grsecurity.net/). To learn more about
-**grsecurity**, you should visit their [website](https://grsecurity.net/).
+Heads uses a deblobbed and hardened Linux kernel. It does so by using
+a Linux kernel patched with [grsecurity](https://grsecurity.net/).
+Deblobbing of the kernel is done using scripts from
+[linux-libre](http://www.fsfla.org/svn/fsfla/software/linux-libre/scripts/).
+To learn more about **grsecurity**, you should visit their
+[website](https://grsecurity.net/).
 
 Grsecurity is a huge security enhancement to the Linux kernel that
 defents against a wide range of security threats through intelligent
