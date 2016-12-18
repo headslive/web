@@ -39,7 +39,7 @@ liveCD. It respects your freedom by offering only free (libre) software.
 heads uses [Tor](https://torproject.org) to help you be anonymous when
 using the Internet. In heads, all your Internet traffic is sent over Tor
 by default. Of course, there is an option to turn it off if you prefer.
-hears does not impose or force any choices to the user. It simply offers
+heads does not impose or force any choices to the user. It simply offers
 sane defaults, and it is up to the user to choose or change those
 defaults in the way the user prefers it...
 
@@ -53,7 +53,7 @@ To learn more about **grsecurity**, you should visit their
 [website](https://grsecurity.net/).
 
 Grsecurity is a huge security enhancement to the Linux kernel that
-defents against a wide range of security threats through intelligent
+defends against a wide range of security threats through intelligent
 access control, memory-corruption based exploit prevention, and a host
 of other system hardening that generally require no configuration. It
 has been actively developed and maintained for the past 15 years.
