@@ -14,19 +14,19 @@ page.
 This entire website is also accessible via
 [Tor](https://torproject.org) at: [torlinkhere](http://heads.onion)
 
-## [Recent news](/news/)
+## Recent news
 
 * [First announcement of heads](/news/2016/12/heads-announcement.html)
 
 
-## [Get head!](/download/)
+## Get heads!
 
-To download heads, visit the above link ;)
+To download heads, follow the [white rabbit](/download/)...
 
 
 ## Get in touch!
 
-To get in touch with developers and other heads users, please connect to
+To talk with developers and other heads users, connect to
 our IRC channel at [irc.dyne.org](https://irc.dyne.org/?channels=#heads)
 
 The channel's name is **#heads**.

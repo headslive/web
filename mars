@@ -114,8 +114,8 @@ process-page() {
 			} || {
 			local dirstr=`basename $PWD`
 			[[ `grep '"/'$dirstr'/"' $name.html` ]] && {
-				sed -i -e 's/class="thisSite" //' $name.html
-				sed -i -e 's/href="\/'$dirstr'\/"/class="thisSite" href="\/'$dirstr'\/"/' $name.html
+				sed -i -e 's:class="thisSite" ::' $name.html
+				sed -i -e 's:href="/'$dirstr'/":class="thisSite" href="/'$dirstr'/":' $name.html
 			} || return 0 } ;;
 		*)
 			err "$pageformat is unsupported";;
