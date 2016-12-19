@@ -6,6 +6,10 @@
 	padding: 0px;
 }
 
+/* commented backslash hack to keep scrollbar in Firefox \*/
+	html, body{height:101%;}
+/* end hack */
+
 body {
 	background-color: #ECF2BB;
 	background-image: url(torish.png);
