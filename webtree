@@ -16,6 +16,8 @@ tree=(
 	#news/2017/01
 
 	download
+
+	wiki
 )
 
 # here add files you want excluded from being generated as .html

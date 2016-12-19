@@ -21,4 +21,4 @@ If you wish to be listed as a contributor/donator, please send us an
 email at [heads@dyne.org](mailto:heads@dyne.org) with your txid signed
 with your Bitcoin address.
 
-**Thank you kindly! ♥**
+**Thank you kindly!** ❤️

@@ -16,7 +16,7 @@ This entire website is also accessible via
 
 ## Recent news
 
-* [First announcement of heads](/news/2016/12/heads-announcement.html)
+* [First announcement of heads](/news/2016/12/heads-announcement.html) (2016-12-01)
 
 
 ## Get heads!
@@ -27,8 +27,7 @@ To download heads, follow the [white rabbit](/download/)...
 ## Get in touch!
 
 To talk with developers and other heads users, connect to
-our IRC channel at [irc.dyne.org](https://irc.dyne.org/?channels=#heads)
-
+our IRC channel at [irc.dyne.org](https://irc.dyne.org/?channels=#heads).
 The channel's name is **#heads**.
 
 You can also use our [mailing list](https://lists.dyne.org/lurker/list/heads.en.html)
