@@ -79,7 +79,7 @@ code {
 	background-color: #32034a;
 	padding: 0.7ex 30px 0.7ex 30px;
 	font-family: archi, sans-serif;
-	font-size: 94%;
+	font-size: 115%; 
 	border-top: 1px solid #333;
 	border-bottom: 1px solid #333;
 }
@@ -92,7 +92,8 @@ code {
 
 #menu a:hover {
 	background-color: #333;
-	color: #E5DAF6;
+	/* color: #E5DAF6; */
+	color: #dced75;
 }
 
 #menu a.thisSite {
@@ -103,7 +104,7 @@ code {
 	background-color: #fff;
 	float: right;
 	margin: 1em 2em 1em 2em;
-	/* margin-right: 50px; */
+	margin-right: 50px;
 	padding: 1em 0;
 	border-left: 1px dotted #ccc;
 	width: 300px;
@@ -115,7 +116,7 @@ code {
 	background-color: #fff;
 	color: #32034a;
 	font-size: 1.78em;
-	padding: 0.7ex 0.7ex 0.7ex 35px;
+	padding: 0.7ex 0.7ex 0.7ex 36px;
 	margin-top: 15px;
 	/* text-align: vcenter; */
 	border-top: 2px solid #32034a;
@@ -129,7 +130,7 @@ code {
 
 #headerLink {
 	color: #32034a;
-	margin-left: 5px;
+	margin-left: 0px;
 	text-decoration: none;
 }
 

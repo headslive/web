@@ -13,12 +13,12 @@ If you wish to make a financial contribution to heads, you are free to
 do so via [Bitcoin](https://bitcoin.org). Please send your bitcoins to
 the following address:
 
-`1Ho3MCkBBFqaaDLAquz8knKHxPeFJVezzY`
+`1M7Dgp5tkRapU4SUCZupKPVKA9EcomEKJr`
 
 ![donate via bitcoin](/static/btc.png)
 
 If you wish to be listed as a contributor/donator, please send us an
 email at [heads@dyne.org](mailto:heads@dyne.org) with your txid signed
-with your Bitcoin address.
+with your Bitcoin address. 
 
 **Thank you kindly!** ❤️

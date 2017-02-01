@@ -4,7 +4,7 @@ About heads
 ===========
 
 heads is a GNU/Linux liveCD distribution aimed at people who like the
-aspect of controlling their privacy and anonimity on the Internet. You
+aspect of controlling their privacy and anonymity on the Internet. You
 might have heard of [Tails](http://tails.boum.org) as a similar
 GNU/Linux distribution. heads was born as an answer to Tails, since
 Tails is using systemd as an init system and also contains non-free
@@ -20,7 +20,7 @@ bad choice. We just do not wish to use it.
 Another **important** thing is that heads uses only
 [free software](https://www.gnu.org/philosophy/free-sw.html),
 while Tails continues using non-free software. Non-free software can not
-be audited and as such cannot guarantee you security or anonimity. On
+be audited and as such cannot guarantee you security or anonymity. On
 the other hand, with heads you only use free software, meaning you can
 gain access to **any** source code that is included in heads, at **any
 time**. Using free software it is far easier to avoid hidden backdoors
@@ -45,7 +45,7 @@ defaults in the way the user prefers it...
 
 ## heads' security
 
-Heads uses a deblobbed and hardened Linux kernel. It does so by using
+heads uses a deblobbed and hardened Linux kernel. It does so by using
 a Linux kernel patched with [grsecurity](https://grsecurity.net/).
 Deblobbing of the kernel is done using scripts from
 [linux-libre](http://www.fsfla.org/svn/fsfla/software/linux-libre/scripts/).

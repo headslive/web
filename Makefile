@@ -1,11 +1,15 @@
 DESTDIR = /var/www/html
 
-all:
+all: clean
 	@./mars generate
-push:
+	@./hack
+
+push: all
 	@./mars push -f
+
 clean:
 	@./mars clean -f
+
 install:
 	cp -f Makefile      ${DESTDIR}/Makefile
 	cp -f mars          ${DESTDIR}/mars

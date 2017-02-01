@@ -1,4 +1,5 @@
 rsync-exclude
+hack
 *.php
 .git
 Makefile
