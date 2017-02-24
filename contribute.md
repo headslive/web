@@ -9,9 +9,8 @@ anything you like to do. You can also get in touch with us via email at:
 [heads@dyne.org](mailto:heads@dyne.org), [IRC](irc.html), or our
 [mailing list](https://lists.dyne.org/lurker/list/heads.en.html).
 
-If you wish to make a financial contribution to heads, you are free to
-do so via [Bitcoin](https://bitcoin.org). Please send your bitcoins to
-the following address:
+If you wish to make a financial contribution to heads, please send your
+bitcoins to the following address or heads dies:
 
 `1M7Dgp5tkRapU4SUCZupKPVKA9EcomEKJr`
 
