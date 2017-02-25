@@ -3,4 +3,7 @@
 heads knowledgebase
 ===================
 
-To be filled
+table of contents
+-----------------
+
+* [using your head(s)](/wiki/usingheads.html)
