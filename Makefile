@@ -3,6 +3,7 @@ DESTDIR = /var/www/html
 all: clean
 	@./mars generate
 	@./hack
+	@./atom.sh
 
 push: all
 	@./mars push -f

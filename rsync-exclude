@@ -1,4 +1,5 @@
 rsync-exclude
+atom.sh
 hack
 *.php
 .git
