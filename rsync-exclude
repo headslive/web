@@ -3,6 +3,7 @@ atom.sh
 hack
 *.php
 .git
+.gitignore
 Makefile
 .gitignore
 *.swp

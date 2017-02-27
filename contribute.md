@@ -10,7 +10,7 @@ anything you like to do. You can also get in touch with us via email at:
 [mailing list](https://lists.dyne.org/lurker/list/heads.en.html).
 
 If you wish to make a financial contribution to heads, please send your
-bitcoins to the following address or heads will be chopped off:
+bitcoins to the following address or heads dies:
 
 	1M7Dgp5tkRapU4SUCZupKPVKA9EcomEKJr
 
