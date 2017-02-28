@@ -8,6 +8,14 @@ frequent annoying questions
 So you can ask an annoying question.
 
 
+### <a id="branding"></a> Why is there no branding, logos, etc. in the OS?
+
+heads is intended as a distro for privacy-aware people. You don't want
+to go out with a system screaming "Hey, I'm using heads!!!". So an
+elegant and lean looking solution is there in the form of dark colours
+and a lovely wallpaper.
+
+
 ### <a id="where-to-get-help"></a> Where do I get help for using heads?
 
 Please don't ask for help on the bugtracker. You can get help and talk
