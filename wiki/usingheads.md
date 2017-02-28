@@ -11,9 +11,9 @@ downloading
 -----------
 
 First head off to the [downloads](/download/) page, and find out where
-to download the ISO, along with the shasum and the gpg signature.
+to download the ISO, along with the shasums and the gpg signatures.
 
-Once you have obtained all three, and they are in a directory on your
+Once you have obtained all four, and they are in a directory on your
 filesystem, do the following:
 
 	; gpg --verify heads-*.asc
