@@ -13,5 +13,7 @@ All releases and their SHA256 sums are signed with my gpg key:
 
 0333 7671 FDE7 5BB6 A85E&nbsp;&nbsp;C91F [B876 CB44 FA1B 0274](/fa1b0274.asc)
 
+## [download heads 0.0](https://files.dyne.org/heads/)
+
 If you wish to help and host a mirror of the heads pub repository,
 please email us at [heads@dyne.org](mailto:heads@dyne.org).

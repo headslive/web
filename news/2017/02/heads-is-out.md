@@ -25,9 +25,13 @@ Booting the ISO can be done with some virtualization like qemu or
 VirtualBox, or it can be dd-ed to a USB flash drive and booted on a
 laptop. It can be burned to optical media as well.
 
-The MATE desktop environment is not yet included in this release, but
-only AwesomeWM. You will automatically be logged in to the graphical
-environment.
+The MATE desktop environment is not yet included in this release, only
+AwesomeWM is installed. You can install other environments easily by
+yourself.
+
+When booted, you will be presented with instructions on how to login,
+and start a graphical environment. Keep in mind the root password is
+shown only once and you will have to reboot if you lose access to it.
 
 ## Bugs. Lots of bugs.
 
