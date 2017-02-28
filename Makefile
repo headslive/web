@@ -7,6 +7,13 @@ all: clean
 
 push: all
 	@./mars push -f
+	@sed -i webtree \
+		-e 's@WEBHOST=.*@WEBHOST="parazyd.cf"@' \
+		-e 's@WEBROOT=.*@WEBROOT="public_html/heads.dyne.org"@'
+	@./mars push -f
+	@sed -i webtree \
+		-e 's@WEBHOST=.*@WEBHOST="heads.dyne.org"@' \
+		-e 's@WEBROOT=.*@WEBROOT="/srv/www/heads"@'
 
 clean:
 	@./mars clean -f

@@ -12,7 +12,7 @@ anonymous. For more information, please see the [about heads](about.html)
 page.
 
 This entire website is also accessible via
-[Tor](https://torproject.org) at: [torlinkhere](http://heads.onion)
+[Tor](https://torproject.org) at: [fz474h2o46o2u7xj.onion](http://fz474h2o46o2u7xj.onion)
 
 ## Recent news
 
@@ -32,7 +32,8 @@ To talk with developers and other heads users, connect to
 our IRC channel at [irc.dyne.org](https://irc.dyne.org/?channels=#heads).
 The channel's name is **#heads**.
 
-You can also use our [mailing list](https://lists.dyne.org/lurker/list/heads.en.html)
+You can also use our
+[mailing list](https://mailinglists.dyne.org/cgi-bin/mailman/listinfo/heads)
 for anything you wish to report or ask.
 
 If you have found bugs, or want to request features in heads, please use

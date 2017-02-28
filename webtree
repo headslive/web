@@ -18,6 +18,7 @@ tree=(
 	download
 
 	wiki
+	wiki/faq
 )
 
 # here add files you want excluded from being generated as .html

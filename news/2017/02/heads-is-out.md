@@ -23,14 +23,16 @@ But first, read some notes on it all:
 
 Booting the ISO can be done with some virtualization like qemu or
 VirtualBox, or it can be dd-ed to a USB flash drive and booted on a
-laptop.
+laptop. It can be burned to optical media as well.
 
 The MATE desktop environment is not yet included in this release, but
 only AwesomeWM. You will automatically be logged in to the graphical
-environment. See this link for info on key bindings:
-[this link](https://www.cheatography.com/fievel/cheat-sheets/awesome-window-manager-3-x/).
+environment.
 
 ## Bugs. Lots of bugs.
+
+![wut](wut.gif)
+
 Please report them as issues on the [heads bugtracker](https://git.devuan.org/heads/bugtracker).
 
 ## Feature requests
