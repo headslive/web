@@ -8,8 +8,9 @@ amount = (float(data.read()) / 100000000.)
 usd = urlopen("https://blockchain.info/q/24hrprice")
 usd = float(usd.read())
 
-howmuchicandrink = amount / usd
+howmuchicandrink = amount * usd
 
 while howmuchicandrink > 0:
     howmuchicandrink = howmuchicandrink - 2.5
+    #print(howmuchicandrink)
     print("beer")

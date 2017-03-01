@@ -28,6 +28,19 @@ with other heads users via [IRC](/irc.html), and via the
 See [contributing](/contribute.html).
 
 
+### <a id="similar-to-heads"></a> Are there any projects similar to heads?
+
+Of course! Decentralization is key :)
+
+Here's a few notable projects, both privacy-wise and/or security-wise:
+
+* [Alpine Linux](https://alpinelinux.org/)
+* [Tails](https://tails.boum.org)
+* [Whonix](https://www.whonix.org/)
+* [Subgraph OS](https://subgraph.com/sgos/)
+* [Qubes](https://www.qubes-os.org/)
+
+
 ### <a id="i-found-a-bug"></a> I found a bug! What do I do?
 
 Go to [heads' bugtracker](https://git.devuan.org/heads/bugtracker/issues)

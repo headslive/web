@@ -41,3 +41,18 @@ If no errors were seen, sync once more and you are done. You can now use
 this flash drive to boot into the heads live OS.
 
 Have fun!
+
+
+booting
+-------
+
+Insert the USB stick in your computer and figure out how to boot from
+it. You will be presented with a console interface telling you the
+credentials to login (luther:luther). From there on, as you login, a
+password will be generated for the root user, and you should take note
+of it if you plan to do anything as the root user. You can also login as
+root with that password and execute `passwd` to change it.
+
+By logging in as the user `luther`, you can start a graphical interface
+by typing `startawesome`. From there on, you should find it easier to
+look around :)
