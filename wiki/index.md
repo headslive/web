@@ -1,4 +1,4 @@
-##+TITLE wiki :: heads
+##+TITLE index :: heads wiki
 
 heads knowledgebase
 ===================

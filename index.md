@@ -17,7 +17,6 @@ This entire website is also accessible via
 ## Recent news
 
 * [heads is out!](/news/2017/02/heads-is-out.html) (2017-02-28)
-
 * [First announcement of heads](/news/2016/12/heads-announcement.html) (2016-12-01)
 
 
