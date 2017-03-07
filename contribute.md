@@ -9,6 +9,9 @@ anything you like to do. You can also get in touch with us via email at:
 [heads@dyne.org](mailto:heads@dyne.org), [IRC](irc.html), or our
 [mailing list](https://mailinglists.dyne.org/cgi-bin/mailman/listinfo/heads).
 
+Please take a look at the [developer manual](/wiki/inside-heads.pdf) if
+you feel like hacking.
+
 If you wish to make a financial contribution to heads, please send your
 bitcoins to the following address or heads dies:
 
