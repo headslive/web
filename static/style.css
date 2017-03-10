@@ -63,6 +63,10 @@ a:hover {
 	text-decoration: none;
 }
 
+.anchor {
+	width: 16px;
+}
+
 code {
 	font-family: monospace;
 	color: #222;
