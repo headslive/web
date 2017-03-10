@@ -10,8 +10,9 @@ reports and other things which helped me polish up the current system. I
 got lots of insight into certain things when I saw how heads performs in
 real-world situations.
 
-I have now built both 32-bit and 64-bit images. Sorry for the
-inconvenience before, but it's worth it :)
+I have now built both 32-bit and 64-bit images. The 32-bit images have
+broken libGL for some reason. If anyone is willing to investigate why
+and/or fix it - please let me know.
 
 ## [download heads 0.1](https://files.dyne.org/heads/)
 
