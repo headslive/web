@@ -47,12 +47,9 @@ booting
 -------
 
 Insert the USB stick in your computer and figure out how to boot from
-it. You will be presented with a console interface telling you the
-credentials to login (luther:luther). From there on, as you login, a
-password will be generated for the root user, and you should take note
-of it if you plan to do anything as the root user. You can also login as
-root with that password and execute `passwd` to change it.
-
-By logging in as the user `luther`, you can start a graphical interface
-by typing `startawesome`. From there on, you should find it easier to
-look around :)
+it. You will be presented with an interface asking you to login
+(luther:luther). From there on, as you login, a password will be
+generated for the root user, and you should take note of it the first
+time you open a terminal window if you plan to do anything as the root
+user. You can also login as root (use `su`) with that password and
+execute `passwd` to change it.

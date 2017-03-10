@@ -80,32 +80,11 @@ much better explanation on the protocol can be found on Tor's website.
 
 ## heads' interface
 
-heads offers two similar, but still different user interfaces. They can
-both be found on the same liveCD. We decided to call them **mate** and
-**awesome** versions. They both behave and protect you in the exact same
-way. The only difference is in the way you use the OS environment. We
-shall explain this a bit more below...
-
-### "mate" version
-
-The **mate** version of heads will boot you into a ready-to-use desktop
-environment. The software used for the environment is called MATE. Their
-website can be found [here](http://mate-desktop.org/). MATE offers you
-the very well known and user-friendly feeling of the old Gnome2 desktop
-environment that was formerly used in Ubuntu. We decided MATE was the
-best choice for people new to GNU/Linux and not tech-savvy users in
-general. MATE being really friendly to use will not scare you and you
-will not get lost in the interface. Everything is accessible via its
-menus and even if you get lost, help is offered and found easily :)
-
-### "awesome" version
-
-The **awesome** version of heads isn't any more awesome than the
-**mate** version as the name might say. It's merely a reason since this
-version of heads uses [AwesomeWM](https://awesomewm.org). It might not
-be a perfect choice for the GNU/Linux layman, but for more experienced
-GNU/Linux users, or for users that prefer window managers over
-full-blown desktop environments, AwesomeWM might be a more preferable
-choice. If you're not an experienced window manager user, but still feel
-adventurous, feel free to use the awesome version. All keybindings can
-be seen on the desktop so you don't get lost ;)
+heads offers AwesomeWM as its graphical window manager. It's relatively
+lightweight and quite usable. It might not be a perfect choice for the
+GNU/Linux layman, but for more experienced GNU/Linux users, or for users
+that prefer window managers over full-blown desktop environments,
+AwesomeWM might be a more preferable choice. Though, it's not that
+difficult to use. Right-click on the desktop -> Awesome -> Keybindings
+and you're good to go. AwesomeWM being a window manager, is
+keyboard-oriented, but still stays mouse friendly.

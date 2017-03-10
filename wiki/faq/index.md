@@ -3,6 +3,11 @@
 frequent annoying questions
 ===========================
 
+### <a class="anchor" id="login"></a> What are the login credentials?
+
+luther:luther
+
+
 ### <a class="anchor" id="typo"></a> Why is it _heads_ and not _Heads_?
 
 So you can ask an annoying question.

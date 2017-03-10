@@ -16,6 +16,7 @@ This entire website is also accessible via
 
 ## Recent news
 
+* [On the road to freedom](/news/2017/03/on-the-road-to-freedom.html) (2017-03-12)
 * [heads is out!](/news/2017/02/heads-is-out.html) (2017-02-28)
 * [First announcement of heads](/news/2016/12/heads-announcement.html) (2016-12-01)
 
