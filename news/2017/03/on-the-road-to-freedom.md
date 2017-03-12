@@ -22,7 +22,7 @@ heading:
 heads now uses Devuan Ascii as a base system
 --------------------------------------------
 
-Yes, it's Debian Sid / Devuan Ascii. Yes, people call it "unstable".
+Yes, it's Debian Stretch / Devuan Ascii. Yes, people call it "unstable".
 It's just in Debian's dictionary: "stable" = "ancient software".
 I am not going along this path, not anymore. Right now heads
 is built on the base of Devuan Ascii and you can now enjoy up-to-date
