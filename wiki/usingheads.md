@@ -30,10 +30,13 @@ So... Plug in a USB flash drive into your computer. In most cases it
 will be automagically recognized by your computer and will be given a
 name such as `sdb` or something in a similar manner. It resides in
 `/dev` on your filesystem. You can check your `dmesg` output to figure
-out the correct device if you are not sure.
+out the correct device if you are not sure. You might see partitions
+like `/dev/sdb1` and `/dev/sdb2`. These will be destroyed once you
+execute the `dd` command below.
 
 Once you got it, the only thing you need to do is dd the ISO to a flash
-drive by doing the following:
+drive by doing the following with root permissions (note that the device
+is `/dev/sdb` and not `/dev/sdb1`):
 
 	; dd if=heads-*.iso of=/dev/sdb bs=1M && sync
 

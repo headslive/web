@@ -77,5 +77,6 @@ Execute it as `root`.
 
 ### <a id="what-is-the-root-password" href="#what-is-the-root-password"><img src="/static/anchor.svg" class="anchor"></a> What is the root password?
 
-You saw it on the login screen. It is only shown once when you login
-and then it disappears (as it told you).
+You saw it when you opened a terminal for the first time in the session.
+It is only shown once at this time and then it disappears (as it told
+you).
