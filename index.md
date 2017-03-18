@@ -11,8 +11,8 @@ respects your privacy, freedom, and helps you to stay secure and
 anonymous. For more information, please see the [about heads](about.html)
 page.
 
-This entire website is also accessible via
-[Tor](https://torproject.org) at: [fz474h2o46o2u7xj.onion](http://fz474h2o46o2u7xj.onion)
+This entire website is also accessible via [Tor](https://torproject.org)
+at: [fz474h2o46o2u7xj.onion](http://fz474h2o46o2u7xj.onion)
 
 ## Recent news
 
