@@ -4,7 +4,7 @@ Donating to heads
 =================
 
 If you wish to donate your work to heads, please check out the
-[bugtracker](https://git.devuan.org/heads/bugtracker/) to see if there's
+[bugtracker](https://github.com/headslive/bugtracker/) to see if there's
 anything you like to do. You can also get in touch with us via email at:
 [heads@dyne.org](mailto:heads@dyne.org), [IRC](irc.html), or our
 [mailing list](https://mailinglists.dyne.org/cgi-bin/mailman/listinfo/heads).

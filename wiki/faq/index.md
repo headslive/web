@@ -48,7 +48,7 @@ Here's a few notable projects, both privacy-wise and/or security-wise:
 
 ### <a id="i-found-a-bug" href="#i-found-a-bug"><img src="/static/anchor.svg" class="anchor"></a> I found a bug! What do I do?
 
-Go to [heads' bugtracker](https://git.devuan.org/heads/bugtracker/issues)
+Go to [heads' bugtracker](https://github.com/headslive/bugtracker/issues)
 and search through the issues. If your bug isn't already reported, open
 a new issue and try to explain it the best you can.
 
@@ -57,7 +57,7 @@ a new issue and try to explain it the best you can.
 
 The distro is very fresh. I am getting feedback as people are giving it.
 Feel free to open a feature request on the
-[bugtracker](https://git.devuan.org/heads/bugtracker/issues), and tag it
+[bugtracker](https://github.com/headslive/bugtracker/issues), and tag it
 with **feature request**.
 
 

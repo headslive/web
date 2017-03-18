@@ -37,7 +37,7 @@ shown only once and you will have to reboot if you lose access to it.
 
 ![wut](wut.gif)
 
-Please report them as issues on the [heads bugtracker](https://git.devuan.org/heads/bugtracker).
+Please report them as issues on the [heads bugtracker](https://github.com/headslive/bugtracker).
 
 ## Feature requests
 Possible in the form of issues on the bugtracker, but probably won't

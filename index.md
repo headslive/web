@@ -37,5 +37,5 @@ You can also use our
 for anything you wish to report or ask.
 
 If you have found bugs, or want to request features in heads, please use
-the [heads bugtracker](https://git.devuan.org/heads/bugtracker) and
+the [heads bugtracker](https://github.com/headslive/bugtracker) and
 search through the issues or fill out a new one.
