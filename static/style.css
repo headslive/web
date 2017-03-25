@@ -17,7 +17,7 @@ body {
 	font-family: copse, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	padding: 0 40px 0 40px;
-	margin: 0 15px 15px 15px;
+	margin: 0 35px 15px 35px;
 }
 
 hr {
@@ -83,7 +83,7 @@ code {
 	background-color: #32034a;
 	padding: 0.7ex 30px 0.7ex 30px;
 	font-family: archi, sans-serif;
-	font-size: 115%; 
+	font-size: 115%;
 	border-top: 1px solid #333;
 	border-bottom: 1px solid #333;
 }
@@ -172,7 +172,7 @@ h4 {
 	clear: both;
 	text-align: justify;
 	margin: 0;
-	padding: 0;
+	padding: 2% 8% 2% 8%;
 	background-color: #fff;
 	color: #250635;
 	overflow: hidden;

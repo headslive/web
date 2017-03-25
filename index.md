@@ -6,7 +6,7 @@ Welcome to heads!
 Hello fellow traveler! Welcome to the heads website!
 
 heads is a [libre](https://en.wikipedia.org/wiki/Libre_software) (free
-as in freedom) GNU/Linux distribution. It is aimed to be a distro that
+as in freedom) GNU/Linux distribution. It aims to be a distro that
 respects your privacy, freedom, and helps you to stay secure and
 anonymous. For more information, please see the [about heads](about.html)
 page.
