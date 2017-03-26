@@ -40,10 +40,10 @@ Of course! Decentralization is key :)
 Here's a few notable projects, both privacy-wise and/or security-wise:
 
 * [Alpine Linux](https://alpinelinux.org/)
+* [Qubes](https://www.qubes-os.org/)
+* [Subgraph OS](https://subgraph.com/sgos/)
 * [Tails](https://tails.boum.org)
 * [Whonix](https://www.whonix.org/)
-* [Subgraph OS](https://subgraph.com/sgos/)
-* [Qubes](https://www.qubes-os.org/)
 
 
 ### <a id="i-found-a-bug" href="#i-found-a-bug"><img src="/static/anchor.svg" class="anchor"></a> I found a bug! What do I do?
@@ -65,8 +65,8 @@ with **feature request**.
 
 First check you are running the latest version of heads. The version you
 have should be the same as it is on the [downloads page](/download/). If
-that is the case, you can issue `heads-update` from within the system to
-see if there are any minor system updates. If however, you don't have
+that is the case, you can issue `sudo heads-update` from within the system
+to see if there are any minor system updates. However, if you don't have
 the latest ISO, just grab that :)
 
 
