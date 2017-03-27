@@ -5,6 +5,7 @@ heads 2017 news archive
 
 ## [March, 2017](03/index.html)
 
+* [v0.2 released](03/release-02.html) (2017-03-18)
 * [heads repositories have migrated](03/repo-migration.html) (2017-03-18)
 * [On the road to freedom](03/on-the-road-to-freedom.html) (2017-03-12)
 
