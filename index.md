@@ -16,7 +16,7 @@ at: [fz474h2o46o2u7xj.onion](http://fz474h2o46o2u7xj.onion)
 
 ## Recent news
 
-* [v0.2 release](/news/2017/03/release-02.html) (2017-03-18)
+* [v0.2 release](/news/2017/03/release-02.html) (2017-03-27)
 * [heads repositories have migrated](/news/2017/03/repo-migration.html) (2017-03-18)
 * [On the road to freedom](/news/2017/03/on-the-road-to-freedom.html) (2017-03-12)
 * [heads is out!](/news/2017/02/heads-is-out.html) (2017-02-28)

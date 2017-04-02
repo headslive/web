@@ -7,7 +7,9 @@ Another step on our road to freedom...
 
 The 32-bit images have still have broken libGL for some reason. I have
 not had time to look into it yet. If anyone is willing to investigate
-why and/or fix it - please let me know.
+why and/or fix it - please let me know. I suspect it's a hardening issue
+and it might be resolved when heads begins running its own Amprolla
+instance, as then we will begin package hardening on our own.
 
 
 ## [download heads 0.2](https://files.dyne.org/heads/)
