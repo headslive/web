@@ -40,6 +40,7 @@ Of course! Decentralization is key :)
 Here's a few notable projects, both privacy-wise and/or security-wise:
 
 * [Alpine Linux](https://alpinelinux.org/)
+* [Gentoo Hardened](https://wiki.gentoo.org/wiki/Project:Hardened/)
 * [Qubes](https://www.qubes-os.org/)
 * [Subgraph OS](https://subgraph.com/sgos/)
 * [Tails](https://tails.boum.org)
