@@ -3,6 +3,10 @@
 heads 2017 news archive
 ==========================
 
+## [April, 2017](04/index.html)
+
+* [On grsecurity and status of heads](04/on-grsec.html) (2017-04-26)
+
 ## [March, 2017](03/index.html)
 
 * [v0.2 released](03/release-02.html) (2017-03-18)

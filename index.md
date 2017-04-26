@@ -16,11 +16,11 @@ at: [fz474h2o46o2u7xj.onion](http://fz474h2o46o2u7xj.onion)
 
 ## Recent news
 
+* [On grsecurity and status of heads](/news/2017/04/on-grsec.html) (2017-04-26)
 * [v0.2 release](/news/2017/03/release-02.html) (2017-03-27)
 * [heads repositories have migrated](/news/2017/03/repo-migration.html) (2017-03-18)
 * [On the road to freedom](/news/2017/03/on-the-road-to-freedom.html) (2017-03-12)
 * [heads is out!](/news/2017/02/heads-is-out.html) (2017-02-28)
-* [First announcement of heads](/news/2016/12/heads-announcement.html) (2016-12-01)
 
 
 ## Get heads!
