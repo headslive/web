@@ -3,6 +3,10 @@
 heads news archives
 ===================
 
+## [June, 2017](2017/06/index.html)
+
+* [There's a workshop on heads happening](2017/06/rmll2017.html) (2017-06-10)
+
 ## [April, 2017](2017/04/index.html)
 
 * [On grsecurity and status of heads](2017/04/on-grsec.html) (2017-04-26)
