@@ -74,6 +74,6 @@ that has been cut out as well. eudev is now also the default hotplugging
 daemon, which lays down the path for eventual OpenRC integration.
 
 
-[Even hell has its heroes](https://www.youtube.com/watch?v=jOyQHr7REsM)
+[We came from the sky](https://www.youtube.com/watch?v=7kJzg_5zXu0&list=PL204D73D2AEEC639B)
 
 ~ [parazyd](mailto:parazyd@dyne.org) (2017-06-22)
