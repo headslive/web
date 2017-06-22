@@ -5,6 +5,8 @@ frequent annoying questions
 
 ### <a id="login" href="#login"><img src="/static/anchor.svg" class="anchor"></a> What are the login credentials?
 
+root:toor
+
 luther:luther
 
 

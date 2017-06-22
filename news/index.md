@@ -5,6 +5,7 @@ heads news archives
 
 ## [June, 2017](2017/06/index.html)
 
+* [v0.3 released!](2017/06/release-03.html) (2017-06-22)
 * [There's a workshop on heads happening](2017/06/rmll2017.html) (2017-06-10)
 
 ## [April, 2017](2017/04/index.html)
