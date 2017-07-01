@@ -3,6 +3,10 @@
 heads 2017 news archive
 ==========================
 
+## [July, 2017](07/index.html)
+
+* [v0.3.1 bugfix release](07/release-031.html) (2017-07-01)
+
 ## [June, 2017](06/index.html)
 
 * [v0.3 released!](06/release-03.html) (2017-06-22)
