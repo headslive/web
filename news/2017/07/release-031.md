@@ -20,4 +20,4 @@ apply:
 [0.3 release notes](../06/release-03.html)
 
 
-~ [parazyd](mailto:parazyd@dyne.org) (2017-07-01)
+~ [parazyd](mailto:parazyd@dyne.org) (2017-07-02)
