@@ -3,11 +3,6 @@
 About heads
 ===========
 
-<center>
-<video src="heads-short.webm" controls width=640></video><br>
-[link to screencast](heads-short.webm)
-</center>
-
 heads is a GNU/Linux liveCD distribution aimed at people who like the
 aspect of controlling their privacy and anonymity on the Internet. You
 might have heard of [Tails](http://tails.boum.org) as a similar
@@ -51,8 +46,10 @@ defaults in the way the user prefers it...
 ## heads' security
 
 heads uses a deblobbed and hardened Linux kernel. It does so by using
-a Linux kernel patched with [grsecurity](https://grsecurity.net/).
-Deblobbing of the kernel is done using scripts from
+a Linux kernel patched with [grsecurity](https://grsecurity.net/). Since
+grsecurity isn't redistributing their patch gratis anymore, heads uses
+forward ports of the last publicly available patch. Deblobbing of the kernel
+is done using scripts from
 [linux-libre](http://www.fsfla.org/svn/fsfla/software/linux-libre/scripts/).
 To learn more about **grsecurity**, you should visit their
 [website](https://grsecurity.net/).
@@ -82,7 +79,11 @@ much better explanation on the protocol can be found on Tor's website.
 
 ## heads' interface
 
-heads offers AwesomeWM as its graphical window manager. It's relatively
+By default heads offers Openbox as its graphical window manager. It is
+supposed to provide a familiar desktop interface that should be pretty
+user-friendly.
+
+heads also offers AwesomeWM as its graphical window manager. It's relatively
 lightweight and quite usable. It might not be a perfect choice for the
 GNU/Linux layman, but for more experienced GNU/Linux users, or for users
 that prefer window managers over full-blown desktop environments,

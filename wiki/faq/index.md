@@ -73,11 +73,6 @@ to see if there are any minor system updates. However, if you don't have
 the latest ISO, just grab that :)
 
 
-### <a id="it-says-no-permissions" href="#it-says-no-permissions"><img src="/static/anchor.svg" class="anchor"></a> It says I don't have permissions?
-
-Execute it as `root`.
-
-
 ### <a id="what-is-the-root-password" href="#what-is-the-root-password"><img src="/static/anchor.svg" class="anchor"></a> What is the root password?
 
 You saw it when you opened a terminal for the first time in the session.
