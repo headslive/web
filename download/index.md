@@ -7,7 +7,7 @@ heads is released on a quarterly basis, meaning every three months you
 can expect a new release of heads. You are always advised to use the
 latest version since it probably contains bugfixes and more features
 than the previous versions. In case of emergencies and/or
-vulnerabilities, a patch release could be made and will be announced.
+vulnerabilities, a patch release can be made and will be announced.
 
 All releases and their SHA256 sums are signed with my gpg key:
 
