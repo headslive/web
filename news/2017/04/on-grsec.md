@@ -10,8 +10,8 @@ Grsecurity is no longer publishing public testing patches:
 
 Personally I am very unhappy because of this move, but it is very understandable
 when looking it from grsec's side. People have often tried to (badly) upstream
-some of their patents, and never contributed back, or credited Grsecurity for
-the work done. Spender & co. have had enough of it.
+some of their patches, and never contributed back, or credited Grsecurity for
+the work done. Spender & co. have had enough of it. 
 
 
 What does this mean for heads?
