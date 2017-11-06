@@ -1,11 +1,10 @@
-##+TITLE using heads :: heads wiki
-
 using heads
 ===========
 
 This wiki page should guide you in the process of obtaining heads, and
 booting into the live system. It's pretty straightforward and there
 should be no issues if you follow these steps.
+
 
 downloading
 -----------

@@ -1,11 +1,8 @@
-##+TITLE index :: heads wiki
-
 heads knowledgebase
 ===================
 
 table of contents
 -----------------
-
 
 * [frequently asked questions](/wiki/faq/)
 

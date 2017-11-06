@@ -1,5 +1,3 @@
-##+TITLE welcome :: heads
-
 Welcome to heads!
 =================
 
@@ -14,7 +12,9 @@ page.
 This entire website is also accessible via [Tor](https://torproject.org)
 at: [fz474h2o46o2u7xj.onion](http://fz474h2o46o2u7xj.onion)
 
-## Recent news
+
+Recent news
+-----------
 
 * [Status report](/news/2017/10/statusreport.html) (2017-10-25)
 * [v0.3.1 bugfix release](/news/2017/07/release-031.html) (2017-07-02)
@@ -23,12 +23,14 @@ at: [fz474h2o46o2u7xj.onion](http://fz474h2o46o2u7xj.onion)
 * [On grsecurity and status of heads](/news/2017/04/on-grsec.html) (2017-04-26)
 
 
-## Get heads!
+Get heads!
+----------
 
 To download heads, follow the [white rabbit](/download/)...
 
 
-## Get in touch!
+Get in touch!
+-------------
 
 To talk with developers and other heads users, connect to
 our IRC channel at [irc.dyne.org](https://irc.dyne.org/?channels=#heads).
@@ -36,7 +38,7 @@ The channel's name is **#heads**.
 
 You can also use our
 [mailing list](https://mailinglists.dyne.org/cgi-bin/mailman/listinfo/heads)
-for anything you wish to report or ask.
+for anything you wish to report, discuss, or ask.
 
 If you have found bugs, or want to request features in heads, please use
 the [heads bugtracker](https://github.com/headslive/bugtracker) and

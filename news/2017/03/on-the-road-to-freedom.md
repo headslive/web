@@ -1,5 +1,3 @@
-##+TITLE on the road to freedom :: heads
-
 On the road to freedom (heads 0.1 released)
 ===========================================
 
@@ -19,6 +17,7 @@ and/or fix it - please let me know.
 There have been some significant changes in the direction where heads is
 heading:
 
+
 heads now uses Devuan Ascii as a base system
 --------------------------------------------
 
@@ -29,6 +28,7 @@ is built on the base of Devuan Ascii and you can now enjoy up-to-date
 software that people should be using. It's still systemd-free and going
 strong :)
 
+
 heads will not implement MATE
 -----------------------------
 
@@ -37,6 +37,7 @@ There might be some eyecandy features (cairo-dock perhaps) added to the
 desktop to mimic the feel of Xfce of sorts, just for convenience's sake,
 but don't count on it. heads will now avoid bloat as much as possible,
 while granting good usability.
+
 
 heads drops aufs4
 -----------------

@@ -1,5 +1,3 @@
-##+TITLE heads is out! :: heads
-
 heads 0.0 is out!
 =================
 
@@ -33,22 +31,31 @@ When booted, you will be presented with instructions on how to login,
 and start a graphical environment. Keep in mind the root password is
 shown only once and you will have to reboot if you lose access to it.
 
-## Bugs. Lots of bugs.
+
+Bugs. Lots of bugs.
+-------------------
 
 ![wut](wut.gif)
 
 Please report them as issues on the
 [heads bugtracker](https://github.com/headslive/bugtracker).
 
-## Feature requests
+
+Feature requests
+----------------
+
 Possible in the form of issues on the bugtracker, but probably won't
 be accepted.
 
-## Collaboration requests
+
+Collaboration requests
+----------------------
 
 Absolutely welcome.
 
-## Quick questions, socialization, {on,off}topic
+
+Quick questions, socialization, {on,off}topic
+---------------------------------------------
 
 [talking heads](/irc.html)
 

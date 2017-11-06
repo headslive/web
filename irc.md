@@ -1,5 +1,3 @@
-##+TITLE irc :: heads
-
 Talking heads
 =============
 

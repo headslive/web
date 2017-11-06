@@ -1,7 +1,5 @@
-##+TITLE march 2017 news :: heads
-
 March 2017 news archive
-==========================
+=======================
 
 * [v0.2 is released](release-02.html) (2017-03-27)
 * [heads repositories have migrated](repo-migration.html) (2017-03-18)

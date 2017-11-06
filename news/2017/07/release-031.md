@@ -1,7 +1,5 @@
-##+TITLE v0.3.1 bugfix release :: heads
-
-heads 0.3.1 release
-===================
+heads 0.3.1 bugfix release
+==========================
 
 With fixes to Xorg and security updates
 

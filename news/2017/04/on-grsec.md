@@ -1,5 +1,3 @@
-##+TITLE on grsec and status of heads :: heads
-
 On grsec and status of heads
 ============================
 

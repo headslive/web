@@ -1,6 +1,4 @@
-##+TITLE wishlist :: heads
-
-a wish for a fish
+A wish for a fish
 =================
 
 heads also has a wishlist!

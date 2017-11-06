@@ -1,5 +1,3 @@
-##+TITLE february 2017 news :: heads
-
 February 2017 news archive
 ==========================
 

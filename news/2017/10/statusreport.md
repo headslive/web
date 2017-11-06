@@ -1,5 +1,3 @@
-##+TITLE status report :: heads
-
 heads' status report
 ====================
 

@@ -1,5 +1,3 @@
-##+TITLE v0.3 is released :: heads
-
 heads 0.3 released
 ==================
 
@@ -22,6 +20,7 @@ are caused on i386 due to the hardened kernel we are using.
 
 
 Notable changes in heads 0.3:
+
 
 Openbox instead of AwesomeWM
 ----------------------------

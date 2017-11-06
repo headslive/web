@@ -1,5 +1,3 @@
-##+TITLE first announcement of heads :: heads
-
 First announcement of heads
 ===========================
 

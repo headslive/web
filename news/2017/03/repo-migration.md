@@ -1,5 +1,3 @@
-##+TITLE repository migration :: heads
-
 heads repositories have migrated
 ================================
 

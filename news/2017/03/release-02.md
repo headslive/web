@@ -1,5 +1,3 @@
-##+TITLE v0.2 is released :: heads
-
 heads 0.2 released
 ==================
 
@@ -16,6 +14,7 @@ instance, as then we will begin package hardening on our own.
 
 
 Besides migrating to Github, there have been a few more notable news:
+
 
 Tor Browser update and preference
 ---------------------------------

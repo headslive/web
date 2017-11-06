@@ -1,10 +1,9 @@
-##+TITLE persistence guide :: heads wiki
-
 persistence guide
 =================
 
 Since version 0.2, heads allows for USB persistence using `tomb`.
 The process uses some automagic to figure out where to place it.
+
 
 setup
 -----

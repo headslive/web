@@ -1,5 +1,3 @@
-##+TITLE contribute :: heads
-
 Donating to heads
 =================
 

@@ -1,5 +1,3 @@
-##+TITLE about :: heads
-
 About heads
 ===========
 
@@ -29,7 +27,9 @@ tad more aware of the importance of free software and its uses.
 
 Let's leave Tails forever now and get a bit deeper into heads...
 
-## Introduction
+
+Introduction
+------------
 
 So, let's begin from the beginning, eh?
 
@@ -43,7 +43,9 @@ heads does not impose or force any choices to the user. It simply offers
 sane defaults, and it is up to the user to choose or change those
 defaults in the way the user prefers it...
 
-## heads' security
+
+heads' security
+---------------
 
 heads uses a deblobbed and hardened Linux kernel. It does so by using
 a Linux kernel patched with [grsecurity](https://grsecurity.net/). Since
@@ -77,7 +79,9 @@ such a way that you are anonymized when browsing the Internet. Web sites
 and services will not know where your traffic is originating from. A
 much better explanation on the protocol can be found on Tor's website.
 
-## heads' interface
+
+heads' interface
+----------------
 
 By default heads offers Openbox as its graphical window manager. It is
 supposed to provide a familiar desktop interface that should be pretty
