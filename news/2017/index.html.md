@@ -1,6 +1,11 @@
 heads 2017 news archive
 =======================
 
+[November, 2017](11/index.html)
+
+* [heads hit distrowatch](11/distrowatch.html) (2017-11-07)
+
+
 [October, 2017](10/index.html)
 ------------------------------
 
