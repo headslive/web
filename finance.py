@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Keeps count of my beers.
+# See LICENSE file for copyright and license details.
 
 from os.path import join
 from time import gmtime, strftime

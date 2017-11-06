@@ -1,7 +1,6 @@
-#!/bin/dash
-#
+#!/bin/sh
 # a terribly inefficient atom.xml generator
-#     lazy
+# See LICENSE file for copyright and license details.
 #
 # https://en.wikipedia.org/wiki/Atom_(standard)#Example_of_an_Atom_1.0_feed
 

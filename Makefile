@@ -1,3 +1,6 @@
+# heads' web
+# See LICENSE file for copyright and license details.
+
 include config.mk
 
 all: $(PAGES)
@@ -7,7 +10,7 @@ all: $(PAGES)
 %: %.md
 	@echo " * generating $@"
 	@cat header.html nav.html | \
-		sed "s/DEFAULT_TITLE/$(shell sed 1q $^) | heads/" > $@
+		sed "s/{{{DEFAULT_TITLE}}}/$(shell sed 1q $^) | heads/" > $@
 	@$(MARKDOWN) $^ >> $@
 	@cat footer.html >> $@
 

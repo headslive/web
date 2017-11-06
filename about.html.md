@@ -3,7 +3,7 @@ About heads
 
 heads is a GNU/Linux liveCD distribution aimed at people who like the
 aspect of controlling their privacy and anonymity on the Internet. You
-might have heard of [Tails](http://tails.boum.org) as a similar
+might have heard of [Tails](https://tails.boum.org) as a similar
 GNU/Linux distribution. heads was born as an answer to Tails, since
 Tails is using systemd as an init system and also contains non-free
 software.
@@ -48,13 +48,13 @@ heads' security
 ---------------
 
 heads uses a deblobbed and hardened Linux kernel. It does so by using
-a Linux kernel patched with [grsecurity](https://grsecurity.net/). Since
+a Linux kernel patched with [grsecurity](https://grsecurity.net). Since
 grsecurity isn't redistributing their patch gratis anymore, heads uses
 forward ports of the last publicly available patch. Deblobbing of the kernel
 is done using scripts from
 [linux-libre](http://www.fsfla.org/svn/fsfla/software/linux-libre/scripts/).
 To learn more about **grsecurity**, you should visit their
-[website](https://grsecurity.net/).
+[website](https://grsecurity.net).
 
 Grsecurity is a huge security enhancement to the Linux kernel that
 defends against a wide range of security threats through intelligent
@@ -66,10 +66,10 @@ It helps you protect your system against 0day attacks and other known
 attacks on the Linux kernel.
 
 But in heads, the kernel security is not the only issue we've
-acknowledged. heads is usually released on a quarterly basis, except if
+acknowledged. heads is released on a when-ready basis, except if
 serious vulnerabilities in the software included in heads have been
 found. In this case, an exception will be made and we will release an
-updated version of heads - before its next scheduled release.
+updated version of heads - before its next (un)scheduled release.
 
 Your security online is also a big issue for us. With heads, your
 Internet traffic is always routed through the

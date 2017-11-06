@@ -3,9 +3,9 @@ A wish for a fish
 
 heads also has a wishlist!
 
-Currently needed are ARM boards for testing and development. The boards that are
-usable have to have at least video and networking support in mainline Linux,
-blob-free.
+Currently needed are ARM boards for testing and development. The boards
+that are usable have to have at least video and networking support in
+mainline Linux, blob-free.
 
 Some examples of the machines that you can donate:
 

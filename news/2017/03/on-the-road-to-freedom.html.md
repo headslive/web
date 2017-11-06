@@ -21,9 +21,9 @@ heading:
 heads now uses Devuan Ascii as a base system
 --------------------------------------------
 
-Yes, it's Debian Stretch / Devuan Ascii. Yes, people think it's "unstable".
-It's just in Debian's dictionary: "stable" = "ancient software".
-I am not going along this path, not anymore. Right now heads
+Yes, it's Debian Stretch / Devuan Ascii. Yes, people think it's
+"unstable".  It's just in Debian's dictionary: "stable" = "ancient
+software".  I am not going along this path, not anymore. Right now heads
 is built on the base of Devuan Ascii and you can now enjoy up-to-date
 software that people should be using. It's still systemd-free and going
 strong :)
@@ -43,8 +43,7 @@ heads drops aufs4
 -----------------
 
 By switching to Devuan Ascii as a base system, we can now use the
-latest-and-greatest OverlayFS natively in Devuan :) Now less
-patching is needed for linux-heads, and less hacks applied in the build
-system.
+latest-and-greatest OverlayFS natively in Devuan :) Now less patching is
+needed for linux-heads, and less hacks applied in the build system.
 
 ~ [parazyd](mailto:parazyd@dyne.org) (2017-03-12)

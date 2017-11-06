@@ -1,8 +1,8 @@
 persistence guide
 =================
 
-Since version 0.2, heads allows for USB persistence using `tomb`.
-The process uses some automagic to figure out where to place it.
+Since version 0.2, heads allows for USB persistence using `tomb`.  The
+process uses some automagic to figure out where to place it.
 
 
 setup
@@ -32,10 +32,10 @@ usage
 
 When you finish the setup for the first time, the persistence tomb stays
 open on the system and you can use it immediately. If you reboot or
-close the tomb, you can now initialize persistence by issuing
-`sudo heads-persistent-load`. This script will look for the before
-created partition, try to mount it, and then try to open the persistence
-tomb. If you set up bind hooks (see tips below), this is the time when
+close the tomb, you can now initialize persistence by issuing `sudo
+heads-persistent-load`. This script will look for the before created
+partition, try to mount it, and then try to open the persistence tomb.
+If you set up bind hooks (see tips below), this is the time when
 directories get overlayed.
 
 
