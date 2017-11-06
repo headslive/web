@@ -199,6 +199,10 @@ h4 {
 	color: #32034a;
 }
 
+.logo a a:hover {
+	text-decoration: none;
+}
+
 .left {
 	float: left;
 	margin: 0;

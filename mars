@@ -131,7 +131,6 @@ skip-page() {
 push() {
 	[[ "$1" = "-f" ]] || countdown "rsyncing"
 	rsync -P -e 'ssh' -avul --delete --stats \
-		--size-only \
 		--exclude-from 'rsync-exclude' \
 		. $WEBHOST:$WEBROOT
 }
