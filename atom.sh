@@ -5,7 +5,7 @@
 #
 # https://en.wikipedia.org/wiki/Atom_(standard)#Example_of_an_Atom_1.0_feed
 
-printf "(*) generating atom feed...\n"
+printf " * generating atom feed\n"
 
 cat <<EOF > atom.xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -21,9 +21,9 @@ cat <<EOF > atom.xml
 
 EOF
 
-grep '^*' index.md | while read line; do
+grep '^*' index.html.md | while read line; do
 
-	mdpath="$(printf "%s\n" "$line" | mawk -F '[()]' '{print $2}' | sed 's/.html$/.md/' | cut -c 2-)"
+	mdpath="$(printf "%s\n" "$line" | mawk -F '[()]' '{print $2}' | sed 's/.html$/.html.md/')"
 
 	title="$(printf "%s\n" "$line" | mawk -F '[\[\]]' '{print $2}')"
 	text="$(sed -e '2,/^$/d' -e '/^$/q' $mdpath | tail -n+2 | tr '\n' ' ')"
@@ -34,7 +34,7 @@ grep '^*' index.md | while read line; do
 	url="https://heads.dyne.org/$mdpath"
 	url="$(printf "%s" "$url" | sed 's/.md$/.html/')"
 
-	printf "(*) %s :: by %s (%s)\n" "$title" "$author" "$date"
+	#printf "(*) %s :: by %s (%s)\n" "$title" "$author" "$date"
 
 	cat <<EOF >> atom.xml
 	<entry>
@@ -56,4 +56,3 @@ done
 
 printf "</feed>\n" >> atom.xml
 sed -i -e 's/[ \t]*$//' atom.xml
-printf "(*) done!\n"
