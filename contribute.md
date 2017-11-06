@@ -19,6 +19,9 @@ bitcoins to the following address or heads dies:
 
 [![donate via bitcoin](/static/btc.png)](bitcoin:1M7Dgp5tkRapU4SUCZupKPVKA9EcomEKJr)
 
+heads also has a wishlist! See [here](/wishlist.html) to find out if there's
+something you can give to us.
+
 If you wish to be listed as a contributor/donator, please send us an
 email at [heads@dyne.org](mailto:heads@dyne.org) with your txid signed
 with your Bitcoin address.
