@@ -1,27 +1,23 @@
-DESTDIR = /var/www/html
+include config.mk
 
-all: clean
-	@./mars generate
-	@./hack
+all: $(PAGES)
 	@./atom.sh
+	@./finance.py
 
-push: all
-	@./mars push -f
-	@sed -i webtree \
-		-e 's@WEBHOST=.*@WEBHOST="parazyd.cf"@' \
-		-e 's@WEBROOT=.*@WEBROOT="public_html/heads.dyne.org"@'
-	@./mars push -f
-	@sed -i webtree \
-		-e 's@WEBHOST=.*@WEBHOST="heads.dyne.org"@' \
-		-e 's@WEBROOT=.*@WEBROOT="/srv/www/heads"@'
+%: %.md
+	@echo " * generating $@"
+	@cat header.html nav.html | \
+		sed "s/DEFAULT_TITLE/$(shell sed 1q $^) | heads/" > $@
+	@$(MARKDOWN) $^ >> $@
+	@cat footer.html >> $@
 
 clean:
-	@./mars clean -f
+	rm -f $(PAGES) atom.xml finance.html
 
-install:
-	cp -f Makefile      ${DESTDIR}/Makefile
-	cp -f mars          ${DESTDIR}/mars
-	cp -f rsync-exclude ${DESTDIR}/rsync-exclude
-	cp -f webtree       ${DESTDIR}/webtree
+push: all
+	@echo " * pushing to $(WEBHOST):$(WEBROOT)"
+	@rsync -P -e "ssh" -avul --delete --stats \
+		--exclude-from "rsync-exclude" \
+		. $(WEBHOST):$(WEBROOT)
 
-.PHONY: all push clean install
+.PHONY: all clean push

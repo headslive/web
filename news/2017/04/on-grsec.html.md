@@ -4,12 +4,12 @@ On grsec and status of heads
 After all the rumors, unfortunately today it was made true.
 
 Grsecurity is no longer publishing public testing patches:
-[https://grsecurity.net/passing_the_baton.php](https://grsecurity.net/passing_the_baton.php)
+[https://grsecurity.net/passing\_the\_baton.php](https://grsecurity.net/passing_the_baton.php)
 
 Personally I am very unhappy because of this move, but it is very understandable
 when looking it from grsec's side. People have often tried to (badly) upstream
 some of their patches, and never contributed back, or credited Grsecurity for
-the work done. Spender & co. have had enough of it. 
+the work done. Spender & co. have had enough of it.
 
 
 What does this mean for heads?
