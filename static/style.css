@@ -127,6 +127,14 @@ code {
 	vertical-align: middle;
 }
 
+.logo a a:hover {
+	text-decoration: none;
+}
+
+#logo {
+	transform:scale(1.2);
+}
+
 #header img {
 	width: 50px;
 	vertical-align: middle;
@@ -136,6 +144,12 @@ code {
 	color: #32034a;
 	margin-left: 0px;
 	text-decoration: none;
+}
+
+#headerSubtitle {
+	font-size: 0.75em;
+	/* font-style: italic; */
+	/* margin-left: 1em; */
 }
 
 h1 {
@@ -160,12 +174,6 @@ h4 {
 	font-family: archi, sans-serif;
 	margin: 1em 1ex 0.5ex 0;
 	font-size: 0.9em;
-}
-
-#headerSubtitle {
-	font-size: 0.75em;
-	/* font-style: italic; */
-	/* margin-left: 1em; */
 }
 
 #content {
@@ -197,10 +205,6 @@ h4 {
 
 #footer a {
 	color: #32034a;
-}
-
-.logo a a:hover {
-	text-decoration: none;
 }
 
 .left {
