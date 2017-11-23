@@ -9,6 +9,7 @@ from urllib.request import urlopen
 
 addresses = [
     '1M7Dgp5tkRapU4SUCZupKPVKA9EcomEKJr',
+    '1Ho3MCkBBFqaaDLAquz8knKHxPeFJVezzY',
 ]
 
 api = 'https://blockchain.info/q'

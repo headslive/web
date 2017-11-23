@@ -13,9 +13,9 @@ you feel like hacking.
 If you wish to make a financial contribution to heads, please send your
 bitcoins to the following address or heads dies:
 
-	1M7Dgp5tkRapU4SUCZupKPVKA9EcomEKJr
+	1Ho3MCkBBFqaaDLAquz8knKHxPeFJVezzY
 
-[![donate via bitcoin](static/btc.png)](bitcoin:1M7Dgp5tkRapU4SUCZupKPVKA9EcomEKJr)
+[![donate via bitcoin](static/btc.png)](bitcoin:1Ho3MCkBBFqaaDLAquz8knKHxPeFJVezzY)
 
 heads also has a wishlist! See [here](/wishlist.html) to find out if there's
 something you can give to us.
