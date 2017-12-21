@@ -32,7 +32,7 @@ while icandrink > 0:
     beers.append('<img src="static/beer11.png" alt="a cold beer" width="24">')
     cnt += 1
     tot += 1
-    if cnt == 20:
+    if cnt == 42:
         beers.append('<br>')
         cnt = 0
 

@@ -11,7 +11,7 @@ Please take a look at the [developer manual](/wiki/inside-heads.pdf) if
 you feel like hacking.
 
 If you wish to make a financial contribution to heads, please send your
-bitcoins to the following address or heads dies:
+bitcoins to the following address for parazyd's rent money.
 
 	1Ho3MCkBBFqaaDLAquz8knKHxPeFJVezzY
 
