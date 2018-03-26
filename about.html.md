@@ -1,6 +1,11 @@
 About heads
 ===========
 
+<center>
+<video src="heads-short.webm" controls width=640></video><br>
+[link to screencast](heads-short.webm)
+</center>
+
 heads is a GNU/Linux liveCD distribution aimed at people who like the
 aspect of controlling their privacy and anonymity on the Internet. You
 might have heard of [Tails](https://tails.boum.org) as a similar

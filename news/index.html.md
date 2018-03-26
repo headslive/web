@@ -1,6 +1,11 @@
 heads news archives
 ===================
 
+[March, 2018](2018/03/index.html)
+
+* [v0.4 released!](2018/03/release-04.html) (2018-03-26)
+
+
 [November, 2017](2017/11/index.html)
 ------------------------------------
 
